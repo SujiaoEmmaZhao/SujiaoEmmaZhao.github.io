@@ -9,7 +9,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sujiao (Emma) Zhao",
+    "title": "Welcome to my website!",
     "section": "",
     "text": "Welcome to my website!\nI am a research economist at the Economics and Research Department of the Banco de Portugal and a research fellow at Center for Economics and Finance of the University of Porto (cefUP). My research interests cover corporate finance, financial contracting, empirical banking, and the impact of climate change-related risks on banks.\nI am also an invited assistant professor at FEP (School of Economics and Management of the University of Porto) and at Católica Lisbon School of Business & Economics, where I teach courses in financial economics, (micro)econometrics, and dissertation seminars on climate risk and banks.\nNot only am I a scholar, I am also a passionate coder and have had the honor of working with great teams in developing several important financial databases and visualization tools at Banco de Portugal Microdata Research Laboratory (BPLIM) and at the European Financial Data Institute of the French National Center for Scientific Research (CNRS).\nOn this website, you will find a selection of my publications and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking.\nPlease feel free to contact me if you have any questions."
   },
@@ -53,7 +53,7 @@
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "with Diana Bonfim, Miguel Ferreira, Francisco Queiró, conditionally accepted at the American Economic Review\nWe measure how cuts to public procurement propagate through the banking system in a financial crisis. During the European sovereign debt crisis, the Portuguese government cut procurement spending by 4.3% of GDP. We find that this cut saddled banks with non-performing loans from government contractors, which led to a persistent reduction in credit supply to other firms. We estimate a bank-level elasticity of credit supply with respect to procurement demand of 2.5. In a general equilibrium model, our findings point to large effects of fiscal policy on credit supply and output in a crisis.\nDownload"
+    "text": "with Diana Bonfim, Miguel Ferreira, Francisco Queiró, American Economic Review, 2025, 115 (6), 1896-1935.\nWe measure how cuts to public procurement propagate through the banking system in a financial crisis. During the European sovereign debt crisis, the Portuguese government cut procurement spending by 4.3% of GDP. We find that this cut saddled banks with non-performing loans from government contractors, which led to a persistent reduction in credit supply to other firms. We estimate a bank-level elasticity of credit supply with respect to procurement demand of 2.5. In a general equilibrium model, our findings point to large effects of fiscal policy on credit supply and output in a crisis.\nDownload"
   },
   {
     "objectID": "publications/index.html#suppliers-as-financial-intermediaries-trade-credit-for-undervalued-firms",
@@ -75,5 +75,12 @@
     "title": "Publications",
     "section": "The Maturity Rat Race and Short-Termism",
     "text": "The Maturity Rat Race and Short-Termism\nwith Joana F. Pimentel, Banco de Portugal Economic Studies, Banco de Portugal, July 2018, 23-51.\nThe global economic financial crisis has rekindled great public interest in one of the oldest questions in finance. That is, what’s the connection between firms’ value and their financial policies? The rationality of debt maturity shortening and managerial short-termism has been at the forefront of the debate. This paper examines the “maturity rat race” proposition in a group of financially distressed firms during the recent crisis in Portugal. We find significant debt maturity shortening before firm default - a finding robust to various empirical specifications. Furthermore, we show that short-term debt overhang leads to managerial myopic behaviors (i.e., short-termism) and the pattern is even more prominent in financially distressed firms. Firms who hold a larger proportion of short-term debt are more prone to invest in short-term assets and engage in earnings management.\nDownload"
+  },
+  {
+    "objectID": "publications/index.html#fiscal-policy-and-credit-supply-in-a-crisis",
+    "href": "publications/index.html#fiscal-policy-and-credit-supply-in-a-crisis",
+    "title": "Publications",
+    "section": "",
+    "text": "with Diana Bonfim, Miguel Ferreira, Francisco Queiró, American Economic Review, 2025, 115 (6), 1896-1935.\nWe measure how cuts to public procurement propagate through the banking system in a financial crisis. During the European sovereign debt crisis, the Portuguese government cut procurement spending by 4.3% of GDP. We find that this cut saddled banks with non-performing loans from government contractors, which led to a persistent reduction in credit supply to other firms. We estimate a bank-level elasticity of credit supply with respect to procurement demand of 2.5. In a general equilibrium model, our findings point to large effects of fiscal policy on credit supply and output in a crisis.\nDownload"
   }
 ]
